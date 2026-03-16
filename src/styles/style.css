@@ -1,0 +1,28 @@
+body{
+  font-family: Arial;
+  background:#a08989;
+}
+
+.app{
+  width:600px;
+  margin:auto;
+}
+
+form{
+  background:white;
+  padding:20px;
+  margin-bottom:20px;
+  border-radius:10px;
+}
+
+input{
+  display:block;
+  width:100%;
+  margin:10px 0;
+  padding:8px;
+}
+
+button{
+  padding:8px 15px;
+  cursor:pointer;
+}
